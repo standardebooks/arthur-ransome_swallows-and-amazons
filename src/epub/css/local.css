@@ -30,6 +30,11 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+#dedication p{
+	font-style: italic;
+	line-height: 2em;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
