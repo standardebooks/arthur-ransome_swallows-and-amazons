@@ -32,7 +32,7 @@ section[epub|type~="dedication"] > *{
 
 #dedication p{
 	font-style: italic;
-	line-height: 2em;
+	line-height: 2;
 }
 
 /* All epigraphs */
