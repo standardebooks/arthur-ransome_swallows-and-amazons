@@ -39,9 +39,14 @@
 		<meta property="term" refines="#subject-2">sh2007100684</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Swallows and Amazons</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">Four children camping on an island in the Lake District encounter adventures with tomboyish sisters who claim the island as their own.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The four Walker children—John, Susan, Titty, and Roger—are spending the summer with their mother in the Lake District while their father’s away on duty in the navy. After getting permission to use their accommodation’s dinghy, the &lt;i&gt;Swallow&lt;/i&gt;, they also beg to be allowed to camp alone on a nearby island.&lt;/p&gt;
+			&lt;p&gt;With permission granted by their understanding (and trusting) mother, their adventures begin. For one thing, they’re not the first to camp on the island. They soon encounter the prior inhabitants: Captain Nancy and her sister Peggy who sail the &lt;i&gt;Amazon&lt;/i&gt;. While war between them is declared at first, they soon find themselves allies against a common enemy—the uncle of the Amazons, &lt;abbr class="initialism"&gt;a.k.a.&lt;/abbr&gt; Captain Flint.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Swallows and Amazons&lt;/i&gt; was the first of what became a series of a dozen novels, known collectively under its title. While the fashion for juvenile fiction of this kind faded, &lt;a href="https://standardebooks.org/ebooks/arthur-ransome"&gt;Ransome’s&lt;/a&gt; novel has achieved classic status. It has frequently been adapted for television, film, and radio, and ranked 57th in the BBC’s “Big Read,” a search in 2003 for “the nation’s best-loved novel.” As Kate Haas noted in her essay on it in the &lt;i&gt;Washington Post&lt;/i&gt;, its “celebration of friendship, imagination, fair play, and exploration” helps to explain its enduring appeal.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20180107</dc:source>
@@ -56,10 +61,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Ransome</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80009839</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Joseph Wright of Derby</dc:contributor>
+		<meta property="file-as" refines="#artist">Wright, Joseph</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_Wright_of_Derby</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87933688</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator">Steven Spurrier</dc:contributor>
 		<meta property="file-as" refines="#illustrator">Spurrier, Steven</meta>
