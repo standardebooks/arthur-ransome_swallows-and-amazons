@@ -6,10 +6,4 @@
 			<reason>Multiple speakers respond in a single paragraph.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-29.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>The clause is complete, so punctuation is within italics wrapper.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
