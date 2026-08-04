@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Swallows and Amazons</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>Four children camping on an island in the Lake District encounter adventures with tomboyish sisters who claim the island as their own.</dc:abstract>
+		<meta property="schema:abstract">Four children camping on an island in the Lake District encounter adventures with tomboyish sisters who claim the island as their own.</meta>
 		<dc:description>
 			&lt;p&gt;The four Walker children—John, Susan, Titty, and Roger—are spending the summer with their mother in the Lake District while their father’s away on duty in the navy. After getting permission to use their accommodation’s dinghy, the &lt;i&gt;Swallow&lt;/i&gt;, they also beg to be allowed to camp alone on a nearby island.&lt;/p&gt;
 			&lt;p&gt;With permission granted by their understanding (and trusting) mother, their adventures begin. For one thing, they’re not the first to camp on the island. They soon encounter the prior inhabitants: Captain Nancy and her sister Peggy who sail the &lt;i&gt;Amazon&lt;/i&gt;. While war between them is declared at first, they soon find themselves allies against a common enemy—the uncle of the Amazons, Captain Flint.&lt;/p&gt;
